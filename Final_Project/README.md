@@ -2,30 +2,23 @@ This is the repository for ML final project.
 
 #### Team Member
 
-Yifan Hu/Evan   		 1901212691  [eiahb3838ya](https://github.com/eiahb3838ya)
-
-Yuting Fang/Trista     1901212576  [ytfang222](https://github.com/ytfang222)
-
-Zhihao Chen/Alfred  1901212567  [AlfredChenZH](https://github.com/AlfredChenZH)
-
-Zilei Wang/ Lorelei     1901212645 [LoreleiWong](https://github.com/LoreleiWong)
-
-#### Introduction
-
-预测market price
-
-how you define the problem
-
-predict something useful
-
-预测credit card default
+| Name                | Student ID | GitHub                                          |
+| ------------------- | ---------- | ----------------------------------------------- |
+| Yifan Hu/Evan       | 1901212691 | [eiahb3838ya](https://github.com/eiahb3838ya)   |
+| Yuting Fang/Trista  | 1901212576 | [ytfang222](https://github.com/ytfang222)       |
+| Zhihao Chen/Alfred  | 1901212567 | [AlfredChenZH](https://github.com/AlfredChenZH) |
+| Zilei Wang/ Lorelei | 1901212645 | [LoreleiWong](https://github.com/LoreleiWong)   |
 
 #### Data Selection
 
-Dataset：Macro data plus OHLC data(temporary)
+Dataset：Macroeconomic data(cleanedFactor.pkl) plus OHLC data of windA(881001.csv).All factors are based on daily frequency data. Data source is wind database.
 
-#### Data Summary Statistics
+Sample:
 
+![image-20200401131134030](/Users/mac/Library/Application Support/typora-user-images/image-20200401131134030.png)
 
+![image-20200401132721242](/Users/mac/Library/Application Support/typora-user-images/image-20200401132721242.png)
 
-#### Our project approach
+#### Data Summary Statistics 
+
+The description of dataset is in report.
