@@ -19,4 +19,4 @@ Sample:
 
 #### Data Summary Statistics 
 
-The description of dataset is in report[01%20dataset/report.html].
+The description of dataset is in [report](01%20dataset/report.html).
