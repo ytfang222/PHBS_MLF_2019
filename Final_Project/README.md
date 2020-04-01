@@ -14,11 +14,9 @@ This is the repository for ML final project.
 Dataset：Macroeconomic data(cleanedFactor.pkl) plus OHLC data of windA(881001.csv).All factors are based on daily frequency data. Data source is wind database.
 
 Sample:
-
-![image-20200401131134030](/Users/mac/Library/Application Support/typora-user-images/image-20200401131134030.png)
-
-![image-20200401132721242](/Users/mac/Library/Application Support/typora-user-images/image-20200401132721242.png)
+![images](01%20dataset/features.png)
+![images](01%20dataset/price.png)
 
 #### Data Summary Statistics 
 
-The description of dataset is in report.
+The description of dataset is in report[01%20dataset/report.html].
